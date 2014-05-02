@@ -24,4 +24,8 @@ branch out to following related bots and facebook security update twitters
 Eventually this project could include sites other than Facebook.
 I would also like to have the relevant tweets collected in blog format as well. I am not certain whether this should be part of the current project.
 
+This bot is capable of searching based on certain key terms two different ways. This is the preparation step before it actually has the capacity to perform scheduled tweets. It can search from the command line and then retweet specific terms ex: facebook security. It can also use random search terms through the random module.
 
+This bot is also connected to total disclosure's twitter and facebook security's twitter. I currently have one follower as of 5/1/14.
+
+Link to the twitter account:
