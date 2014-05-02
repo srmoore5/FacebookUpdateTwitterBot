@@ -29,5 +29,4 @@ This bot is capable of searching based on certain key terms two different ways. 
 This bot is also connected to total disclosure's twitter and facebook security's twitter. I currently have one follower as of 5/1/14.
 
 Tweet at @nownotify
-<blockquote class="twitter-tweet" lang="en"><p>Lynis - An Open source <a href="https://twitter.com/search?q=%23security&amp;src=hash">#security</a> tool to audit and harden Unix / <a href="https://twitter.com/search?q=%23Linux&amp;src=hash">#Linux</a> based systems - <a href="http://t.co/zrkYAaOxBX">http://t.co/zrkYAaOxBX</a> <a href="http://t.co/eeRSZEdx1t">pic.twitter.com/eeRSZEdx1t</a></p>&mdash; The Hacker News™ (@TheHackersNews) <a href="https://twitter.com/TheHackersNews/statuses/458649763743670272">April 22, 2014</a></blockquote>
-<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+https://twitter.com/nownotify
